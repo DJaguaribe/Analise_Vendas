@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Realizei uma análise detalhada de dados para um problema de negócio utilizando Python e suas bibliotecas poderosas como Pandas, NumPy e Matplotlib. Além disso, criei um ambiente de visualização interativa no Power BI para responder a uma série de perguntas chave que vão desde o segmento da empresa com maior total de vendas até a análise de viabilidade de descontos.
+Realizei uma análise detalhada de dados reais para um problema de negócio utilizando Python e suas bibliotecas poderosas como Pandas, NumPy e Matplotlib. Além disso, criei um ambiente de visualização interativa no Power BI para responder a uma série de perguntas chave que vão desde o segmento da empresa com maior total de vendas até a análise de viabilidade de descontos.
 
 ## Pontos Positivos do Trabalho Realizado
 
